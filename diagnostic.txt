@@ -1,0 +1,2 @@
+01-16 21:18:28.843 2812-2812/edu.washington.tg71223.activityspy I/activityspy: onCreate event fired, Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.tg71223.activityspy/.MainActivity }
+01-16 21:18:28.844 2812-2812/edu.washington.tg71223.activityspy I/activityspy: onResume event fired
